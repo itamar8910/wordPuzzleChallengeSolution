@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * solution to part 3  of the word puzzle challenge - with dynamic programming
+ * solution to part 3  of the word puzzle challenge 
  * note: solution needs to be optimized
  * @author Itamar
  *
@@ -33,7 +33,7 @@ public class Part3 {
 
 	
 	/**
-	 * Dynamic programming func
+	 * recursive func
 	 * returns the MAX number of words paths that can fit without overlapping each other, for words i to n
 	 * note: solution needs to be optimized
 	 */
